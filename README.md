@@ -1,2 +1,2 @@
-# CortexTor-Multimodal-RAG-based-QA-Chatbot
-Multimodal RAG-based QA Chatbot
+# Multimodal RAG based QA Chatbot
+A Multimodal RAG-based QA (Question Answering) Chatbot combines text and visual data (e.g., images, charts) to answer user queries using Retrieval-Augmented Generation (RAG). It retrieves relevant multimodal content from a knowledge base and generates context-aware responses by leveraging large language models and vision-language models. This enables the chatbot to understand and respond to complex questions that involve both textual and visual understanding.
